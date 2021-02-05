@@ -12,6 +12,9 @@ public class Ejercicio1 {
 		
 		System.out.println("No me gustan estas charlas, me ponen nervioso");
 		
+		
+		System.out.println("No sé que más escribir la verdad, me aburro");
+		
 	}
 
 }
