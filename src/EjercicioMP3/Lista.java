@@ -47,5 +47,12 @@ public class Lista {
 	public void setCategoria(String categoria) {
 		this.categoria = categoria;
 	}
+	
+	public String nombreCancione() {
+	
+		String cancion = "Cancion";
+		
+		return cancion;
+	}
 
 }

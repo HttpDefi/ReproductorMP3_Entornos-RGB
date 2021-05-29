@@ -62,5 +62,25 @@ public class Reproductor {
 	public void setF_fabricacion(LocalDate f_fabricacion) {
 		this.f_fabricacion = f_fabricacion;
 	}
+	
+	/**
+	 * Método que pone en marcha la playlist 
+	 * @author HttpD
+	 */
+	public void playLista() {
+		
+		
+		
+	}
+	
+	/**
+	 * Metodo para parar la playlist
+	 * @author HttpD
+	 */
+	public void pause() {
+		
+		
+		
+	}
 
 }
